@@ -17,7 +17,7 @@ Você pode acessar meu currículo online através do GitHub Pages:
 ---
 
 ## 📝 Sobre Mim
-Sou Brendha Barbosa, estudante de desenvolvimento web.  
+Sou Brendha, estudante de desenvolvimento web.  
 Este currículo é parte do meu portfólio e demonstra minhas habilidades em estruturar páginas web de forma simples e semântica.
 
 ---
