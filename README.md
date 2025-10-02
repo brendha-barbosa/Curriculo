@@ -3,24 +3,15 @@
 Bem-vindo ao meu currículo online!  
 Este repositório contém meu currículo feito **apenas com HTML**, pronto para visualização no navegador.
 
----
-
-## 📄 Visualizar Currículo
-Você pode acessar meu currículo online através do GitHub Pages:  
-[Ver Currículo](https://brendha-barbosa.github.io/curriculo/)
-
----
 
 ## 💻 Tecnologias Utilizadas
 - HTML  
 
----
 
 ## 📝 Sobre Mim
 Sou Brendha, estudante de desenvolvimento web.  
 Este currículo é parte do meu portfólio e demonstra minhas habilidades em estruturar páginas web de forma simples e semântica.
 
----
 
 ## 🔗 Contato
 - **Email:** brendhab323@gmail.com  
